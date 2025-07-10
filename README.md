@@ -89,7 +89,7 @@ It includes core modules such as:
 
 
 
---- Then update your `appsettings.json` connection string: ---
+--- Then update your `appsettings.json` connection string:
 
 
 
